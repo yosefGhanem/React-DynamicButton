@@ -1,0 +1,4 @@
+change directory to >>
+
+~ / Files / home / coder / project / reactlab / src / 
+then : npm start
